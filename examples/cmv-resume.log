@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2021) (preloaded format=xelatex 2021.8.28)  26 SEP 2022 17:42
+This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2021) (preloaded format=xelatex 2021.8.28)  26 SEP 2022 18:06
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1392,7 +1392,14 @@ Overfull \hbox (25.2879pt too wide) in alignment at lines 10--38
 
 ) (./cv/experience.tex [1
 
-] [2] [3]) (./cv/funding.tex
+] [2] [3]) (./cv/publications.tex
+LaTeX Font Info:    Font shape `TU/SourceSansPro(2)/b/n' will be
+(Font)              scaled to size 9.0pt on input line 21.
+Requested font "[SourceSansPro-Semibold.otf]/OT:script=latn;language=dflt;mappi
+ng=tex-text;" at 9.0pt
+ -> /usr/local/texlive/2021/texmf-dist/fonts/opentype/adobe/sourcesanspro/Sourc
+eSansPro-Semibold.otf
+) (./cv/soft-pub.tex) (./cv/funding.tex
 LaTeX Font Info:    Font shape `TU/SourceSansPro(1)/m/n' will be
 (Font)              scaled to size 9.0pt on input line 23.
 Requested font "[SourceSansPro-Regular.otf]/OT:script=latn;language=dflt;mappin
@@ -1405,15 +1412,14 @@ Requested font "[SourceSansPro-Bold.otf]/OT:script=latn;language=dflt;mapping=t
 ex-text;" at 9.0pt
  -> /usr/local/texlive/2021/texmf-dist/fonts/opentype/adobe/sourcesanspro/Sourc
 eSansPro-Bold.otf
-) (./cv/honors.tex)
-(./cv/presentation.tex) (./cv/writing.tex [4]) (./cv/committees.tex) [5]
-(./cmv-resume.aux) ) 
+ [4]) (./cv/honors.tex) (./cv/presentation.tex)
+(./cv/writing.tex) (./cv/committees.tex) [5] (./cmv-resume.aux) ) 
 Here is how much of TeX's memory you used:
- 31939 strings out of 476919
- 636266 string characters out of 5821840
+ 31949 strings out of 476919
+ 636492 string characters out of 5821840
  1126882 words of memory out of 5000000
- 51322 multiletter control sequences out of 15000+600000
- 407596 words of font info for 136 fonts, out of 8000000 for 9000
+ 51325 multiletter control sequences out of 15000+600000
+ 407604 words of font info for 137 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  127i,12n,140p,568b,533s stack positions out of 5000i,500n,10000p,200000b,80000s
 
