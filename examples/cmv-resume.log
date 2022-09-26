@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2021) (preloaded format=xelatex 2021.8.28)  26 SEP 2022 18:06
+This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2021) (preloaded format=xelatex 2021.8.28)  26 SEP 2022 18:59
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1377,19 +1377,14 @@ n-math.otf
 
 
 LaTeX Font Warning: Font shape `TU/SourceSansPro(1)/m/scit' undefined
-(Font)              using `TU/SourceSansPro(1)/m/it' instead on input line 62.
+(Font)              using `TU/SourceSansPro(1)/m/it' instead on input line 80.
 
 LaTeX Font Info:    Font shape `TU/SourceSansPro(1)/m/it' will be
-(Font)              scaled to size 8.0pt on input line 62.
+(Font)              scaled to size 8.0pt on input line 80.
 Requested font "[SourceSansPro-RegularIt.otf]/OT:script=latn;language=dflt;mapp
 ing=tex-text;" at 8.0pt
  -> /usr/local/texlive/2021/texmf-dist/fonts/opentype/adobe/sourcesanspro/Sourc
 eSansPro-RegularIt.otf
-) (./cv/skills.tex
-Overfull \hbox (25.2879pt too wide) in alignment at lines 10--38
-[] [] 
- []
-
 ) (./cv/experience.tex [1
 
 ] [2] [3]) (./cv/publications.tex
@@ -1412,13 +1407,17 @@ Requested font "[SourceSansPro-Bold.otf]/OT:script=latn;language=dflt;mapping=t
 ex-text;" at 9.0pt
  -> /usr/local/texlive/2021/texmf-dist/fonts/opentype/adobe/sourcesanspro/Sourc
 eSansPro-Bold.otf
- [4]) (./cv/honors.tex) (./cv/presentation.tex)
-(./cv/writing.tex) (./cv/committees.tex) [5] (./cmv-resume.aux) ) 
+ [4]) (./cv/honors.tex) (./cv/softwareskills.tex
+Overfull \hbox (47.37791pt too wide) in alignment at lines 10--30
+[] [] 
+ []
+
+) (./cv/prof-assoc.tex) [5] (./cmv-resume.aux) ) 
 Here is how much of TeX's memory you used:
- 31949 strings out of 476919
- 636492 string characters out of 5821840
- 1126882 words of memory out of 5000000
- 51325 multiletter control sequences out of 15000+600000
+ 31946 strings out of 476919
+ 636437 string characters out of 5821840
+ 1127082 words of memory out of 5000000
+ 51328 multiletter control sequences out of 15000+600000
  407604 words of font info for 137 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  127i,12n,140p,568b,533s stack positions out of 5000i,500n,10000p,200000b,80000s
