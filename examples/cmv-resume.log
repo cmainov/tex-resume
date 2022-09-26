@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2021) (preloaded format=xelatex 2021.8.28)  26 SEP 2022 17:28
+This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2021) (preloaded format=xelatex 2021.8.28)  26 SEP 2022 17:42
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1392,19 +1392,7 @@ Overfull \hbox (25.2879pt too wide) in alignment at lines 10--38
 
 ) (./cv/experience.tex [1
 
-] [2] [3]) (./cv/extracurricular.tex) (./cv/honors.tex
-LaTeX Font Info:    Font shape `TU/SourceSansPro(1)/m/n' will be
-(Font)              scaled to size 12.0pt on input line 10.
-Requested font "[SourceSansPro-Regular.otf]/OT:script=latn;language=dflt;mappin
-g=tex-text;" at 12.0pt
- -> /usr/local/texlive/2021/texmf-dist/fonts/opentype/adobe/sourcesanspro/Sourc
-eSansPro-Regular.otf
-LaTeX Font Info:    Font shape `TU/SourceSansPro(1)/m/sc' will be
-(Font)              scaled to size 12.0pt on input line 10.
-Requested font "[SourceSansPro-Regular.otf]/OT:script=latn;language=dflt;+smcp;
-mapping=tex-text;" at 12.0pt
- -> /usr/local/texlive/2021/texmf-dist/fonts/opentype/adobe/sourcesanspro/Sourc
-eSansPro-Regular.otf
+] [2] [3]) (./cv/funding.tex
 LaTeX Font Info:    Font shape `TU/SourceSansPro(1)/m/n' will be
 (Font)              scaled to size 9.0pt on input line 23.
 Requested font "[SourceSansPro-Regular.otf]/OT:script=latn;language=dflt;mappin
@@ -1417,14 +1405,15 @@ Requested font "[SourceSansPro-Bold.otf]/OT:script=latn;language=dflt;mapping=t
 ex-text;" at 9.0pt
  -> /usr/local/texlive/2021/texmf-dist/fonts/opentype/adobe/sourcesanspro/Sourc
 eSansPro-Bold.otf
-[4]) (./cv/presentation.tex) (./cv/writing.tex) (./cv/committees.tex) [5]
+) (./cv/honors.tex)
+(./cv/presentation.tex) (./cv/writing.tex [4]) (./cv/committees.tex) [5]
 (./cmv-resume.aux) ) 
 Here is how much of TeX's memory you used:
- 31943 strings out of 476919
- 636505 string characters out of 5821840
- 1128729 words of memory out of 5000000
- 51324 multiletter control sequences out of 15000+600000
- 407612 words of font info for 138 fonts, out of 8000000 for 9000
+ 31939 strings out of 476919
+ 636266 string characters out of 5821840
+ 1126882 words of memory out of 5000000
+ 51322 multiletter control sequences out of 15000+600000
+ 407596 words of font info for 136 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  127i,12n,140p,568b,533s stack positions out of 5000i,500n,10000p,200000b,80000s
 
