@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2021) (preloaded format=xelatex 2021.8.28)  26 SEP 2022 16:38
+This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2021) (preloaded format=xelatex 2021.8.28)  26 SEP 2022 16:57
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1417,13 +1417,13 @@ Requested font "[SourceSansPro-Bold.otf]/OT:script=latn;language=dflt;mapping=t
 ex-text;" at 9.0pt
  -> /usr/local/texlive/2021/texmf-dist/fonts/opentype/adobe/sourcesanspro/Sourc
 eSansPro-Bold.otf
-)
-(./cv/presentation.tex [3]) (./cv/writing.tex) (./cv/committees.tex) [4]
+
+[3]) (./cv/presentation.tex) (./cv/writing.tex) (./cv/committees.tex) [4]
 (./cmv-resume.aux) ) 
 Here is how much of TeX's memory you used:
  31943 strings out of 476919
  636505 string characters out of 5821840
- 1130882 words of memory out of 5000000
+ 1131882 words of memory out of 5000000
  51324 multiletter control sequences out of 15000+600000
  407612 words of font info for 138 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
