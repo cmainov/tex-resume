@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2021) (preloaded format=xelatex 2021.8.28)  26 SEP 2022 18:59
+This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2021) (preloaded format=xelatex 2021.8.28)  26 SEP 2022 19:18
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1412,12 +1412,12 @@ Overfull \hbox (47.37791pt too wide) in alignment at lines 10--30
 [] [] 
  []
 
-) (./cv/prof-assoc.tex) [5] (./cmv-resume.aux) ) 
+) (./cv/presentation.tex) (./cv/prof-assoc.tex) [5] (./cmv-resume.aux) ) 
 Here is how much of TeX's memory you used:
- 31946 strings out of 476919
- 636437 string characters out of 5821840
+ 31950 strings out of 476919
+ 636508 string characters out of 5821840
  1127082 words of memory out of 5000000
- 51328 multiletter control sequences out of 15000+600000
+ 51329 multiletter control sequences out of 15000+600000
  407604 words of font info for 137 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  127i,12n,140p,568b,533s stack positions out of 5000i,500n,10000p,200000b,80000s
