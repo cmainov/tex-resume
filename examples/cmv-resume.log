@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2021) (preloaded format=xelatex 2021.8.28)  26 SEP 2022 19:31
+This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2021) (preloaded format=xelatex 2021.8.28)  27 SEP 2022 08:52
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1194,12 +1194,6 @@ Requested font "[latinmodern-math.otf]/OT:script=math;language=dflt;+ssty=1;" a
 t 5.47441pt
  -> /usr/local/texlive/2021/texmf-dist/fonts/opentype/public/lm-math/latinmoder
 n-math.otf
-LaTeX Font Info:    Font shape `TU/Roboto(5)/m/n' will be
-(Font)              scaled to size 32.0pt on input line 71.
-Requested font "[Roboto-Light.otf]/OT:script=latn;language=dflt;+pnum;+lnum;map
-ping=tex-text;" at 32.0pt
- -> /usr/local/texlive/2021/texmf-dist/fonts/opentype/google/roboto/Roboto-Ligh
-t.otf
 LaTeX Font Info:    Font shape `TU/Roboto(1)/m/n' will be
 (Font)              scaled to size 32.0pt on input line 71.
 Requested font "[Roboto-Regular.otf]/OT:script=latn;language=dflt;+pnum;+lnum;m
@@ -1212,40 +1206,28 @@ Requested font "[Roboto-Bold.otf]/OT:script=latn;language=dflt;+pnum;+lnum;mapp
 ing=tex-text;" at 32.0pt
  -> /usr/local/texlive/2021/texmf-dist/fonts/opentype/google/roboto/Roboto-Bold
 .otf
-LaTeX Font Info:    Font shape `TU/SourceSansPro(1)/m/n' will be
-(Font)              scaled to size 7.6pt on input line 71.
-Requested font "[SourceSansPro-Regular.otf]/OT:script=latn;language=dflt;mappin
-g=tex-text;" at 7.6pt
- -> /usr/local/texlive/2021/texmf-dist/fonts/opentype/adobe/sourcesanspro/Sourc
-eSansPro-Regular.otf
-LaTeX Font Info:    Font shape `TU/SourceSansPro(1)/m/sc' will be
-(Font)              scaled to size 7.6pt on input line 71.
-Requested font "[SourceSansPro-Regular.otf]/OT:script=latn;language=dflt;+smcp;
-mapping=tex-text;" at 7.6pt
- -> /usr/local/texlive/2021/texmf-dist/fonts/opentype/adobe/sourcesanspro/Sourc
-eSansPro-Regular.otf
 LaTeX Font Info:    Font shape `TU/Roboto(1)/m/n' will be
-(Font)              scaled to size 8.0pt on input line 71.
+(Font)              scaled to size 14.0pt on input line 71.
 Requested font "[Roboto-Regular.otf]/OT:script=latn;language=dflt;+pnum;+lnum;m
-apping=tex-text;" at 8.0pt
+apping=tex-text;" at 14.0pt
+ -> /usr/local/texlive/2021/texmf-dist/fonts/opentype/google/roboto/Roboto-Regu
+lar.otf
+LaTeX Font Info:    Font shape `TU/Roboto(1)/m/n' will be
+(Font)              scaled to size 8.8pt on input line 71.
+Requested font "[Roboto-Regular.otf]/OT:script=latn;language=dflt;+pnum;+lnum;m
+apping=tex-text;" at 8.8pt
  -> /usr/local/texlive/2021/texmf-dist/fonts/opentype/google/roboto/Roboto-Regu
 lar.otf
 LaTeX Font Info:    Font shape `TU/Roboto(1)/m/it' will be
-(Font)              scaled to size 8.0pt on input line 71.
+(Font)              scaled to size 8.8pt on input line 71.
 Requested font "[Roboto-Italic.otf]/OT:script=latn;language=dflt;+pnum;+lnum;ma
-pping=tex-text;" at 8.0pt
+pping=tex-text;" at 8.8pt
  -> /usr/local/texlive/2021/texmf-dist/fonts/opentype/google/roboto/Roboto-Ital
 ic.otf
-LaTeX Font Info:    Font shape `TU/Roboto(1)/m/n' will be
-(Font)              scaled to size 6.8pt on input line 71.
-Requested font "[Roboto-Regular.otf]/OT:script=latn;language=dflt;+pnum;+lnum;m
-apping=tex-text;" at 6.8pt
- -> /usr/local/texlive/2021/texmf-dist/fonts/opentype/google/roboto/Roboto-Regu
-lar.otf
-Requested font "[FontAwesome5Free-Solid-900.otf]:script=latn;" at 6.8pt
+Requested font "[FontAwesome5Free-Solid-900.otf]:script=latn;" at 8.8pt
  -> /usr/local/texlive/2021/texmf-dist/fonts/opentype/public/fontawesome5/FontA
 wesome5Free-Solid-900.otf
-Requested font "[FontAwesome5Brands-Regular-400.otf]:script=latn;" at 6.8pt
+Requested font "[FontAwesome5Brands-Regular-400.otf]:script=latn;" at 8.8pt
  -> /usr/local/texlive/2021/texmf-dist/fonts/opentype/public/fontawesome5/FontA
 wesome5Brands-Regular-400.otf
 
@@ -1414,11 +1396,11 @@ Overfull \hbox (47.37791pt too wide) in alignment at lines 10--30
 
 ) (./cv/presentation.tex) (./cv/prof-assoc.tex) [5] (./cmv-resume.aux) ) 
 Here is how much of TeX's memory you used:
- 31950 strings out of 476919
- 636508 string characters out of 5821840
- 1127165 words of memory out of 5000000
- 51329 multiletter control sequences out of 15000+600000
- 407604 words of font info for 137 fonts, out of 8000000 for 9000
+ 31944 strings out of 476919
+ 636206 string characters out of 5821840
+ 1127159 words of memory out of 5000000
+ 51326 multiletter control sequences out of 15000+600000
+ 407580 words of font info for 134 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  127i,12n,140p,568b,533s stack positions out of 5000i,500n,10000p,200000b,80000s
 
