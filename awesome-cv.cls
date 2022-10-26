@@ -207,6 +207,9 @@
 \newcommand*{\skilltypestyle}[1]{{\fontsize{10pt}{1em}\bodyfont\bfseries\color{darktext} #1}}
 \newcommand*{\skillsetstyle}[1]{{\fontsize{9pt}{1em}\bodyfontlight\color{text} #1}}
 
+% For elements of references
+\newcommand*{\refstyle}[1]{{\fontsize{10pt}{1em}\bodyfontlight\color{darktext} #1}}
+
 % For elements of pm
 \newcommand*{\podatestyle}[1]{{\fontsize{9pt}{1em}\bodyfont\color{graytext} #1}}
 \newcommand*{\postyle}[1]{{\fontsize{9pt}{1em}\bodyfont\bfseries\color{darktext} #1}}
@@ -735,6 +738,23 @@
 	\podatestyle{#1} & \postyle{#2} \\
 }
 
+% Define an environment for cvref
+\newenvironment{cvrefs}{%
+  \vspace{\acvSectionContentTopSkip}
+  \vspace{-2mm}
+  \begin{center}
+    \setlength\tabcolsep{3cm}
+    \setlength{\extrarowheight}{0pt}
+    \begin{tabular*}{\textwidth}{@{\extracolsep{\fill}} L{\textwidth } R{0.1cm}}
+}{%
+    \end{tabular*}
+  \end{center}
+}
+% Define a line of cv information(skill)
+% Usage: \cvref{<reference>}
+\newcommand*{\cvref}[1]{%
+	\refstyle{#1}  \\
+}
 
 % Define an environment for cvitems(for cventry)
 \newenvironment{cvitems}{%
